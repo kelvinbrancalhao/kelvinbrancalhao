@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning some ReactJS
 - 📫 kelvinbrancalhao@gmail.com
 
-- Olá meu nome é Kelvin Brancalhão, eu sou Gestor de Tecnologia de um Hub de inovação e desenvolvedor de startups por paixão.
+- Olá, eu sou o @kelvinbrancalhao, eu sou Gestor de Tecnologia de um Hub de inovação e desenvolvedor de startups por paixão.
 - Atualmente estou desenvolvendo projetos com React e procurar melhorar algumas hard skills.
 - Tenho um Projeto Open Source de robótica, que convido a todos a participarem e darem a sua contribuição.
 
