@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @kelvinbrancalhao
 - 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning some ReactJS
+- 🌱 I’m currently learning a lot of Flutter
 - 📫 kelvinbrancalhao@gmail.com
 
 - Olá, eu sou o @kelvinbrancalhao, eu sou Gestor de Tecnologia de um Hub de inovação e desenvolvedor de startups por paixão.
 - Atualmente estou desenvolvendo projetos com React e procurar melhorar algumas hard skills.
-- Tenho um Projeto Open Source de robótica, que convido a todos a participarem e darem a sua contribuição.
+- Tenho uma fábrica de software focada em desenvolvimento de aplicativos com flutter chamada codup 
 
 
 
